@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "i5H1Meid4LaMvN5X8fUNq/3gjhUNY37ZxqJJWm+Bua9RXI2EW5O8G21zLWV7IRKWW6Kn+xA+cw0s8Xg3xIdrgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonva\\source\\repos\\ZooManageEncycloFA2\\ZooManageEncycloFA2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonva\\.nuget\\packages\\tulpep.notificationwindow\\1.1.38\\tulpep.notificationwindow.1.1.38.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Tulpep.NotificationWindow 1.1.38' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Tulpep.NotificationWindow",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
